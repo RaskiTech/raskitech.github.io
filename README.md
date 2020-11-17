@@ -1,2 +1,2 @@
 Nothing here yet...
-You can check out http://raskitech.github.io/find-a-vector while you are here
+But whily you are here, you can check out http://raskitech.github.io/find-a-vector
