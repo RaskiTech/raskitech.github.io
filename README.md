@@ -1,2 +1,3 @@
-Nothing here yet,
-but while you are here you can check out http://raskitech.github.io/find-a-vector
+# RaskiTech homepage
+See the page at https://raskitech.github.com
+A page made to show all the different major projects that I have worked on.
