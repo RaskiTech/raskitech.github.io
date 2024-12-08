@@ -1,12 +1,12 @@
 [
     {
         "suomi": {
-            "name": "Eagle engine",
-            "dc": "Eagle engine on C++ 2D graafinen renderointimoottori Windowssille. Sitä voi käyttää kaikenlaisten sovellusten sekä pelien tekemiseen. Tee helposti applikaatiota pythonin, ja GUI:n avulla."
+            "name": "Eagle Engine",
+            "dc": "Eagle engine on C++ 2D graafinen renderointimoottori Windowssille. Sitä voi käyttää helposti kaikenlaisten sovellusten sekä pelien tekemiseen, koska siinä on sisäänrakennettu GUI ja se tukee pythonia."
         },
         "english": {
             "name": "Eagle Engine",
-            "dc": "Eagle Engine is a C++ 2D graphics rendering engine currently available for Windows. It can be used to make any sorts of desktop applications, including games. Use python and the GUI to create your applications."
+            "dc": "Eagle Engine is a C++ 2D graphics rendering engine available for Windows. It can be used to make any sorts of desktop applications, including games. Use python and the GUI to create your applications."
         },
 
         "imagePath": "images/Eagle-engine.png",
@@ -16,11 +16,11 @@
     {
         "suomi": {
           "name": "Find a Function",
-          "dc": "Find a Function löytää funktion, joka sopii datapisteisiisi. Se myös auttaa havainnollistamaan funktioita, ja sovittaa tiettyjen pisteiden läpi kulkevan parhaimman käyrän."
+          "dc": "Tämä nettisivu löytää funktion, joka sopii datapisteisiisi. Se myös auttaa havainnollistamaan funktioita, ja sovittaa tiettyjen pisteiden läpi kulkevan parhaimman käyrän."
         },
         "english": {
             "name": "Find a Function",
-            "dc": "Find a Function is a function visualizer, as well as a function finder. Find a Function allows you to play with function, or know a functions that has some points in it."
+            "dc": "This website is a function visualizer, as well as a function finder. Find a Function allows you to play with function, or know a functions that has some points in it."
         },
 
         "imagePath": "images/Find-a-Function.png",
@@ -29,26 +29,26 @@
     },
     {
         "suomi": {
-            "name": "AI Composer",
-            "dc": "Tekoäly, joka osaa tehdä omaa midi-musiikkia. Ohjelmalla voi sekä soittaa ja muokata tätä musiikkia että ladata sen midinä tai wavena. Tehty Eagle enginellä."
+            "name": "AI Seamless Lofi",
+            "dc": "Tekoäly, joka osaa tehdä loputonta muuttuvaa lofi-musiikkia. Tekoäly treenattiin Tensorflown avulla ja muutettiin sitten javascript ystävälliseen muotoon."
         },
         "english": {
-            "name": "AI Composer",
-            "dc": "AI that can make its own music. With this program you can mutate and play the music as well as download it as midi or as wav. Made using the Eagle Engine."
+            "name": "AI Seamless Lofi",
+            "dc": "AI that can make its own ever-changing Lofi music. The AI was trained with Tensorflow and then converted into a javascript friendly version."
         },
 
-        "imagePath": "images/AI-Composer.png",
-        "url": "https://github.com/RaskiTech/AI-Composer",
+        "imagePath": "images/AI-Seamless-Lofi.png",
+        "url": "https://raskitech.github.io/Seamless-Lofi/",
         "color": "#FF7675"
     },
     {
         "suomi": {
             "name": "Circuit Simulator",
-            "dc": "Google play peli, jossa luodaan yhä monimutkaisempia virtapiirejä yhdistelemällä yksinkertaisempia virtapiirejä."
+            "dc": "Unityllä tehty Google play peli, jossa luodaan yhä monimutkaisempia virtapiirejä yhdistelemällä yksinkertaisempia virtapiirejä. Pelillä on tällä hetkellä yli 10k latausta."
         },
         "english": {
             "name": "Circuit Simulator",
-            "dc": "A Google play game, where you create advanced circuits from the ground up using simple logic gates."
+            "dc": "A Google play game made with Unity, where you create advanced circuits from the ground up using simple logic gates. The game currently has over 10k downloads."
         },
 
         "imagePath": "images/Circuit-simulator.png",
@@ -58,7 +58,7 @@
     {
         "suomi": {
             "name": "Fourier art",
-            "dc": "Eri kokoiset ja eri nopeuksilla pyörivät kompleksivektorit voivat arvioida mitä tahansa käyrää. Tätä kutsutaan Fourier`n sarjaksi, jonka tämä ohjelma visualisoi siististi."
+            "dc": "Fourier'n sarjan avulla voi laskea mitkä kompleksivektorit approksimoivat parhaiten tiettyä käyrää. Tämä nettisivu visualisoi nämä vektorit mille tahansa käyrälle."
         },
         "english": {
             "name": "Fourier art",
@@ -68,61 +68,5 @@
         "imagePath": "images/Fourier-art.png",
         "url": "https://raskitech.github.io/Fourier-art/",
         "color": "#FF7675"
-    },
-    {
-        "suomi": {
-            "name": "Raytracer",
-            "dc": "Säteenjäljitysohjelma tehty matkimaan valon pomppimista oikean maailman mukaisesti."
-        },
-        "english": {
-            "name": "Raytracer",
-            "dc": "A raytracer made with c++ made to mimic how light bounces in the real world."
-        },
-        
-        "imagePath": "images/Raytracer.png",
-        "url": "https://github.com/RaskiTech/Raytracer",
-        "color": "#55EFC4"
-    },
-    {
-        "suomi": {
-            "name": "Sudoku solver",
-            "dc": "Applikaatio, joka ratkaisee valitsemasi Sudoku-laudan käyttäen paluualgorymiä. Sisältää graaffisen käyttöliittymän, johon luvut voi laittaa."
-        },
-        "english": {
-            "name": "Sudoku solver",
-            "dc": "An application that solves your chosen Sudoku board using the backtracing algorithm. Includes a graphical user interface where the numbers can be set."
-        },
-
-        "imagePath": "images/sudoku.png",
-        "url": "https://github.com/RaskiTech/Sudoku-Solver",
-        "color": "#DFE6E9"
-    },
-    {
-        "suomi": {
-            "name": "Shifting squares",
-            "dc": "Google play puzzle peli, jossa tehdään aloitusasetelma ja annetaan pelin simuloida itsensä."
-        },
-        "english": {
-            "name": "Shifting squares",
-            "dc": "A game of life inspired puzzle game on Google play. In the game you setup a starting condition and let the game play out."
-        },
-
-        "imagePath": "images/Shifting-squares.png",
-        "url": "https://play.google.com/store/apps/details?id=com.RaskiTech.ShiftingSquares",
-        "color": "#74B9FF"
-    },
-    {
-        "suomi": {
-            "name": "Tämä nettisivu",
-            "dc": "Ja viimeiseksi, tämä nettisivu kaikkien animaatioiden ja visuaalien kera."
-        },
-        "english": {
-            "name": "This website",
-            "dc": "And lastly, this website with all the animations and visuals."
-        },
-
-        "imagePath": "logo512.png",
-        "url": "https://github.com/RaskiTech/raskitech.github.io",
-        "color": "#FAB1A0"
     }
 ]
